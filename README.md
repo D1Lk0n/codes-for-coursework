@@ -1,1 +1,1 @@
-# codes-for-coursework
+# коди для курсової
